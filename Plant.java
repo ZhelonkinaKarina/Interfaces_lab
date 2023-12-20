@@ -7,5 +7,6 @@ public interface Plant {
     //Метод для поливу рослини
     void water();
     
+  //Метод для вирощення фруктів
     void growFruits();
 }
